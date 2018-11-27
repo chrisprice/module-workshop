@@ -1,5 +1,5 @@
 package workshop
 
-func Version() string {
-	return "v2.0.1"
+func VersionNumber() string {
+	return "v2.1.0"
 }
